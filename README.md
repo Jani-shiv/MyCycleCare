@@ -1,8 +1,10 @@
+# 🌸 MyCycleCare
+
+> _“Women’s Health & Wellness Tracker”_
+
 ![MyCycleCare Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVyNXQycWVwamZycGdyOXhnNWZ6bmxrdmdlMHhzNXZlMHVucGt1ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/wa0YVWljRtekMUfke6/giphy.gif)
 
-<h1 align="center">🌸 MyCycleCare</h1>
-<h4 align="center">Women’s Health & Wellness Tracker</h4>
-
+---
 <p align="center">
   <a href="https://github.com/Jani-shiv/MyCycleCare/stargazers"><img src="https://img.shields.io/github/stars/Jani-shiv/MyCycleCare?style=social" /></a>
   <a href="https://github.com/Jani-shiv/MyCycleCare/watchers"><img src="https://img.shields.io/github/watchers/Jani-shiv/MyCycleCare?style=social" /></a>
