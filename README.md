@@ -2,7 +2,7 @@
 
 > _“Women’s Health & Wellness Tracker”_
 
-![MyCycleCare Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVyNXQycWVwamZycGdyOXhnNWZ6bmxrdmdlMHhzNXZlMHVucGt1ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/wa0YVWljRtekMUfke6/giphy.gif)
+![Thumbnail](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVyNXQycWVwamZycGdyOXhnNWZ6bmxrdmdlMHhzNXZlMHVucGt1ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/wa0YVWljRtekMUfke6/giphy.gif)
 
 ---
 <p align="center">
