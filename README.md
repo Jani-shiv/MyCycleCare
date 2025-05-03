@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVyNXQycWVwamZycGdyOXhnNWZ6bmxrdmdlMHhzNXZlMHVucGt1ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/wa0YVWljRtekMUfke6/giphy.gif" alt="MyCycleCare Banner" width="400" />
-</p>
+![MyCycleCare Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVyNXQycWVwamZycGdyOXhnNWZ6bmxrdmdlMHhzNXZlMHVucGt1ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/wa0YVWljRtekMUfke6/giphy.gif)
 
 <h1 align="center">🌸 MyCycleCare</h1>
 <h4 align="center">Women’s Health & Wellness Tracker</h4>
