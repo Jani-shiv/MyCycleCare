@@ -1,0 +1,145 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Node modules (for mobile app)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native
+classbuddy-mobile/android/app/build/
+classbuddy-mobile/ios/build/
+classbuddy-mobile/.expo/
+classbuddy-mobile/dist/
+
+# Secrets
+*.pem
+*.key
+config/secrets.json
+
+# Cache
+.cache/
+*.cache
+
+# Coverage
+coverage/
+.coverage
+.pytest_cache/
+
+# Docker
+.dockerignore
+
+# System files
+NTUSER.DAT*
+*.regtrans-ms*
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+3D Objects/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+ntuser.*
+.git-credentials
+.gitconfig
+.aitk/
+.android/
+.azure/
+.bito/
+.bitowingman/
+.cache/
+.config/
+.continue/
+.cursor/
+.dotnet/
+.expo/
+.gemini/
+.gradle/
+.lesshst
+.lmstudio*
+.marscode/
+.matplotlib/
+.npmrc
+.openjfx/
+.quokka/
+.redhat/
+.rest-client/
+.windows-build-tools/
+*.html
+*.ipynb
+*.yml
+actions/
+data/
+domain.yml
+endpoints.yml
+lets_chat/
+models/
+tests/
+package-lock.json
